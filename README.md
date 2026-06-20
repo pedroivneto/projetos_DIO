@@ -1,15 +1,11 @@
 # miniguia-finEdu-NotebookLM
-🎯 OBJETIVO
+🎯 **OBJETIVO**:
+Este projeto apresenta o desenvolvimento de um assistente virtual de aprendizagem na plataforma **_NotebookLM_**, especializados em educação e administração financeira. O objetivo principal é capacitar cidadãos sem conhecimento prévio na área, fornecendo uma ferramenta acessível para a gestão de finanças pessoais.
+O projeto estrutura-se a partir de quatro objetivos metodológicos integrados:
+* **Curadoria e Estruturação da Base de Dados**: Selecionar e organizar fontes confiáveis sobre finanças básicas para alimentar o repositório do NotebookLM.
+* **Engenharia e Validação de Prompts**: Desenvolver e testar instruções para que a IA adote uma linguagem simples, didática e acolhedora.
+* **Catalogação e Análise de Respostas**: Mapear e avaliar os resultados gerados para garantir a precisão conceitual e a clareza das explicações.
+* **Consolidação e Ancoragem de Fontes**: Vincular estritamente as interações aos documentos carregados, mitigando alucinações e assegurando respostas seguras.
 
-busca 
-orçamento pessoal, controle de dívidas, reserva de emergência, juros compostos, inflação e investimentos básicos.
-FONTES DE TEXTO:
-https://www.nber.org/papers/w32355
-https://www.revistas.fucamp.edu.br/index.php/ragc/article/view/2083
-https://www.scielo.br/j/rep/a/QbxgfVjx7qkb4zFGcmc393F/?lang=pt
-https://books.google.com.br/books?hl=pt-PT&lr=&id=9uGfEAAAQBAJ&oi=fnd&pg=PP11&dq=investimentos+financeiros+b%C3%A1sicos&ots=RzVlMkTGeH&sig=D3CZd_YsDgHqdUWefIuclvQA5AI&redir_esc=y#v=onepage&q=investimentos%20financeiros%20b%C3%A1sicos&f=false
-PDF Upado
-FONTES DE VÍDEO:
-https://youtu.be/pmFUQv30XpE?si=wnEQ9H_qAc-Hl5Vo
-https://youtu.be/pOqoKwhKb00?si=H8cGhrPoJg4S25QF
+Ao consolidar este fluxo, o assistente transforma conceitos financeiros complexos em um guia prático e seguro. A ferramenta atua como um facilitador de autonomia, permitindo que o usuário compreenda sua realidade financeira e tome decisões conscientes.
 
