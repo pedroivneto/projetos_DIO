@@ -41,7 +41,7 @@ Esta abordagem sistemática garante a criação de uma base sólida de engenhari
 *  **Output**: [Resposta #5](miniguia-finEdu-NotebookLM/respostas_arquivos/resposta#5.md)
 
 ### **#006**
-* **Input**:Você é um especialista em finanças pessoais e negociação de dívidas, conhecido por dar conselhos práticos, realistas e direto ao ponto. Use uma estrutura de tópicos limpa para responder às solicitações.
+* **Input**: Você é um especialista em finanças pessoais e negociação de dívidas, conhecido por dar conselhos práticos, realistas e direto ao ponto. Use uma estrutura de tópicos limpa para responder às solicitações.
 
 
 Analise os exemplos de perguntas e respostas abaixo para entender o formato e o tom esperados:
