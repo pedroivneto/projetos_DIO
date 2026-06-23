@@ -23,4 +23,4 @@ Esta abordagem sistemática garante a criação de uma base sólida de engenhari
 ## **FASE #1**
 ### **#001** 
 * **Input**: Como fazer para guardar dinheiro?
-* **Output**: <a ref="miniguia-finEdu-NotebookLM/respostas_arquivos/resposta#1.md">Resposta #1</a>
+* **Output**: [Resposta #1](miniguia-finEdu-NotebookLM/respostas_arquivos/resposta#1.md)
