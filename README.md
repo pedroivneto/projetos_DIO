@@ -9,3 +9,4 @@ O projeto estrutura-se a partir de quatro objetivos metodológicos integrados:
 
 Ao consolidar este fluxo, o assistente transforma conceitos financeiros complexos em um guia prático e seguro. A ferramenta atua como um facilitador de autonomia, permitindo que o usuário compreenda sua realidade financeira e tome decisões conscientes.
 
+Para verificação de fontes e testes, favor acessar **[NotebookLM](https://notebooklm.google.com/notebook/2f48eea1-c38c-4a3f-8a88-5e54965d2a74)**.
